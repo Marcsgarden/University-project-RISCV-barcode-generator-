@@ -40,3 +40,6 @@ This project was developed between **December 2024 - January 2025** as part of m
 ⚡ Example Output
 Input: HELLO123
 Output: A barcode representation of HELLO123 in barcode.bmp
+This project is open-source and available under the MIT License.
+
+
