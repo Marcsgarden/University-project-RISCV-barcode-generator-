@@ -1,10 +1,13 @@
-# Barcode Generator in Assembly (RISC-V)
+# Barcode Generator (Dec 2024 - Jan 2025) 🏷️
 
-![Barcode Example](https://your-image-link-here.com) <!-- Optional: Add a sample barcode image -->
 
 ## 📌 Project Description
 
 This project is a **barcode generator written in RISC-V assembly**. It takes user input and encodes it into a barcode format, saving it as a `.bmp` image file.
+
+## 📅 Work Period
+
+This project was developed between **December 2024 - January 2025** as part of my coursework at [Warsaw University of Technology](https://www.pw.edu.pl/).
 
 ## 🚀 Features
 
@@ -24,6 +27,7 @@ This project is a **barcode generator written in RISC-V assembly**. It takes use
 1. **Assemble the code** using a RISC-V assembler such as `rars`:
    ```sh
    java -jar rars.jar barcode_generator.s
+
 
 2.Run the program in the simulator.
 3.Enter a string when prompted.
